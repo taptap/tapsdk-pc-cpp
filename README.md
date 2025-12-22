@@ -24,7 +24,7 @@ TapSDK PC 版是专为通过 TapTap 启动器运行的 PC 游戏设计的 C++ SD
 
 完整的集成指南、API 参考和使用示例，请访问：
 
-📖 **[TapSDK PC C++ 官方文档](https://developer.taptap.cn/docs/sdk/pc-sdk/overview/)**
+📖 **[TapSDK PC C++ 官方文档](https://developer.taptap.cn/docs/pc/cpp-sdk/overview/)**
 
 ### 支持
 
@@ -54,7 +54,7 @@ Each release includes:
 
 For complete integration guides, API reference, and usage examples, please visit:
 
-📖 **[TapSDK PC C++ Official Documentation](https://developer.taptap.cn/docs/sdk/pc-sdk/overview/)**
+📖 **[TapSDK PC C++ Official Documentation](https://developer.taptap.cn/docs/en/pc/cpp-sdk/overview/)**
 
 ### Support
 
