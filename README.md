@@ -17,8 +17,15 @@ TapSDK PC 版是专为通过 TapTap 启动器运行的 PC 游戏设计的 C++ SD
 请访问 [Releases](https://github.com/taptap/TapSDK-PC-cpp/releases) 页面下载最新版本的 SDK。
 
 每个 release 包含：
-- `taptap_api.h` - C++ 头文件
-- `taptap_api.dll` - 动态链接库文件
+- taptap_api.h - 基础功能 C++ 头文件
+- taptap_achievement.h - 成就功能 C++ 头文件
+- taptap_cloudsave.h - 云存档功能 C++ 头文件
+- taptap_compliance.h - 合规认证功能 C++ 头文件
+- taptap_leaderboard.h - 排行榜功能 C++ 头文件
+- taptap_onlinebattle.h - 多人联机功能 C++ 头文件
+- taptap_relation.h - 好友功能 C++ 头文件
+- taptap_api.dll - 动态链接库文件
+- taptap_api.lib - 导入库文件
 
 ### 文档
 
@@ -47,8 +54,15 @@ TapSDK PC is a C++ SDK designed specifically for PC games running through the Ta
 Please visit the [Releases](https://github.com/taptap/TapSDK-PC-cpp/releases) page to download the latest version of the SDK.
 
 Each release includes:
-- `taptap_api.h` - C++ header file
-- `taptap_api.dll` - Dynamic link library file
+- taptap_api.h: Header file for basic features API (initialization, callback registration, user authorization, license verification, consistent random number, etc.)
+- taptap_achievement.h: Header file for achievement feature API
+- taptap_cloudsave.h: Header file for cloud save feature API
+- taptap_compliance.h: Header file for compliance feature API
+- taptap_leaderboard.h: Header file for leaderboard feature API
+- taptap_onlinebattle.h: Header file for online multiplayer feature API
+- taptap_relation.h: Header file for relation feature API
+- taptap_api.dll: Dynamic library file (Windows)
+- taptap_api.lib: Import library file (Windows)
 
 ### Documentation
 
